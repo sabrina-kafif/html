@@ -1,0 +1,37 @@
+img {
+width:200;
+border:2px solid blue;
+}
+
+body{
+font family: Arial;
+
+}
+
+.pink{
+color: pink;
+font size: 53 px;
+
+}
+
+
+.purple{
+color: purple;
+font style: 32 px;
+
+}
+.blue{
+color:blue;
+font style: 32 px;
+
+}
+ 
+.yellow{
+color: yellow;
+font style: 32px;
+
+}
+
+ body {
+  background-color: lightblue;
+} 
